@@ -97,7 +97,7 @@ $ git commit -m "增加测试文件"
 [master (root-commit) 5d71790] 增加测试文件
  1 file changed, 1 insertion(+)
  create mode 100644 test.txt
-
+  
 
 
 Administrator@SC-201810141340 MINGW64 /e/muke/AutoTest_InterFace_Java (master)
@@ -260,3 +260,12 @@ Administrator@SC-201810141340 MINGW64 /e/muke/AutoTest_InterFace_Java (master)
 $ git push origin :localbranch
 To github.com:LLY600/AutoTest_InterFace_Java.git
  - [deleted]         localbranch
+
+
+
+
+1
+2
+3
+4
+5
